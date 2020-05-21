@@ -18,11 +18,7 @@
   </types>
   <types>
     <members>Admin</members>
-    <members>Chatter External User</members>
-    <members>Chatter Free User</members>
-    <members>Chatter Moderator User</members>
     <members>ContractManager</members>
-    <members>Guest License User</members>
     <members>MarketingProfile</members>
     <members>ReadOnly</members>
     <members>SolutionManager</members>
